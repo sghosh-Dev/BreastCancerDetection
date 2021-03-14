@@ -1,4 +1,4 @@
-Using machine learning create a breast cancer detection identifier using:
+Using machine learning to create a breast cancer detection identifier using:
 
 1.Logistic Regression
 2.Decision Tree classifiers
